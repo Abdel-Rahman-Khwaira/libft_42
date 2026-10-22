@@ -12,6 +12,10 @@ The project taught me how memory, strings, and pointers work in C, and how to wr
 
 All functions are prefixed with `ft_` (for example, `ft_strlen`) and are compiled into a static library, `libft.a`.
 
+### Detailed description of functions
+
+[functions_description.md](https://github.com/Abdel-Rahman-Khwaira/libft_42/blob/main/functions_description.md)
+
 ### Overview of the functions
 
 | Part | Functions |
@@ -27,7 +31,7 @@ All functions are prefixed with `ft_` (for example, `ft_strlen`) and are compile
 Clone the repository and run `make` in the root folder:
 
 ```bash
-git clone <your-repo-url> libft
+git clone https://github.com/Abdel-Rahman-Khwaira/libft_42.git libft
 cd libft
 make
 ```
